@@ -1,3 +1,4 @@
+![Terraform CI](https://github.com/arya-ansuman-04/iam-user-automation-terraform/actions/workflows/terraform-ci.yml/badge.svg)
 # IAM User Automation with Terraform
 
 ## Objective
